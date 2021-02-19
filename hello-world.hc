@@ -1,7 +1,9 @@
 // RIP Terry Davis
 
+U8 *str = "hello world";
+
 U0 main() {
-  print "hello world\n";
+  print "%s\n", str;
   return 0;
 }
 
