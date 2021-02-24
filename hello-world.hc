@@ -11,7 +11,8 @@ U0 main() {
 main();
 
 U0 terry() {
-  f = GetStr("Terry@Heaven:~$ ");
-  print("hello, %s%\n", f);
+  print("divine intellect\n");
+  print("talk to God in up to 64 cores\n");
+  print("probably the CIA did it or something\n");
   main();
 }
